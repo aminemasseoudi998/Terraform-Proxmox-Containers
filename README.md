@@ -14,6 +14,6 @@ Ansible node : Enfin, le troisième conteneur a été réservé à Ansible, l'ou
 
 Résultats :
 
-Ce projet a révolutionné notre approche de l'automatisation de l'infrastructure en introduisant l'Infrastructure as Code (IaC) dans notre workflow. Il a considérablement accéléré le déploiement, réduit les erreurs humaines et amélioré la cohérence de l'environnement.![22](https://github.com/aminemasseoudi998/Terraform-Proxmox-Containers/assets/79852285/9b3d7b19-5d2c-43ae-b949-e34ebe273718)
+Ce projet a révolutionné notre approche de l'automatisation de l'infrastructure en introduisant l'Infrastructure as Code (IaC) dans notre workflow. Il a considérablement accéléré le déploiement, réduit les erreurs humaines et amélioré la cohérence de l'environnement
 
 ![screenshot](https://github.com/aminemasseoudi998/Terraform-Proxmox-Containers/assets/79852285/bd8795b4-67fa-44ea-99c6-5e2d4422c100)
